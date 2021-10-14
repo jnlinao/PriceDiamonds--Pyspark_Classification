@@ -1,5 +1,4 @@
 # Price Prediction of Diamonds :gem:            
-<img src="/images/logo.png" width="225" height="125">
 
 ### Use Case: Utilizing Big Data Tools to handle, manipulate, and model volume heavy data
 
